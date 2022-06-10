@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/AddPost" android:title="Add Post"></item>
+    <item android:id="@+id/AddText" android:title="Add Text"></item>
+    <item android:id="@+id/ViewText" android:title="View All Text"></item>
+    <item android:id="@+id/ViewProfile" android:title="View Profile"></item>
+    <item android:id="@+id/SıgnOut" android:title="Sıgn Out"></item>
+</menu>

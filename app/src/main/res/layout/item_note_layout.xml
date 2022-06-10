@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/tv_Note"
+        android:layout_width="match_parent"
+        android:layout_height="132dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="35dp"
+        android:background="@drawable/xr"
+        android:fontFamily="@font/abril_fatface"
+        android:gravity="center_vertical"
+        android:text="Okula git"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+
+</LinearLayout>
+
+
